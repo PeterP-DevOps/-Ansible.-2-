@@ -11,11 +11,13 @@
 3. Изменить приветствие системы (motd) при входе на любое другое. Пожалуйста, в этом задании используйте переменную для задания приветствия. Переменную можно задавать любым удобным способом.
 ### Решение 1
 #### Решение 1.1
-Плейбук находится в отдельном файле
+Плейбук находится в отдельном файле.
 Результат работы первого плейбука:
  ![Result1.1.](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.1..png)
 #### Решение 1.2
-Плейбук находится в отдельном файле
+Плейбук находится в отдельном файле.
 Результат работы второго плейбука:
- ![Result1.2.](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.2..png)
+![Result1.2.](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.2..png)
  
+![Result1.2.1.1](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.2.1.png)
+![Result1.2.1.2](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51.2.2.png)
