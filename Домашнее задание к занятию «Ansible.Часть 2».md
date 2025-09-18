@@ -62,4 +62,5 @@
   
 #### Решение 3
 
-
+![Result3.1](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B53.1.png)
+![Result3.2](https://github.com/PeterP-DevOps/-Ansible.-2-/blob/main/screenshot/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B53.2.png)
